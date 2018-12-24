@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-[npm] card for Dillon Davis
-
 # Usage
 
 Via npx:
