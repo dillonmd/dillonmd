@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [npm] card for Dillon Davis
 
 # Usage
@@ -20,3 +21,6 @@ ie: `npm init my-card`
 [tierney (@bitandbang)]: https://www.npmjs.com/package/bitandbang
 [create-my-card]: https://www.npmjs.com/package/create-my-card
 
+=======
+# my-card
+>>>>>>> f9cdd254f94be43379e2aee2808f56849a3d0566
