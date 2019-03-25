@@ -45,11 +45,11 @@
   "myCard": {
     "info": {
       "name": "Dillon Davis",
-      "handle": "tybdillon",
-      "twitter": "tybdillon",
+      "handle": "dillonmd",
+      "dev.to": "dillonmd",
       "npm": "dillonmd",
       "github": "dillonmd",
-      "linkedin": "dillon-davis-55ab39162",
+      "linkedin": "dillonmd",
       "web": "dillonmd.com",
       "work": "Front End Dev"
     },
@@ -62,9 +62,9 @@
       },
       "",
       {
-        "label": "Twitter",
-        "text": "https://twitter.com/<cyan>{{twitter}}</>",
-        "when": "{{twitter}}"
+        "label": "Dev.to",
+        "text": "https://dev.to/<cyan>{{dev.to}}</>",
+        "when": "{{dev.to}}"
       },
       {
         "label": "npm",
